@@ -4,9 +4,10 @@
 
 * https://www.familysearch.org/en/united-states/
 
-## Request ancestor patriarchial blessing
+## Request ancestor patriarchal blessing
 
 * https://history.churchofjesuschrist.org/faq/library/patriarchal-blessings?lang=eng
+* https://pb.churchofjesuschrist.org/pbrequest/home/family
 
 ## Videos
 
